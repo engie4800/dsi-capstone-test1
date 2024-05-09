@@ -10,7 +10,7 @@ Select a team captain (with or without help from mentor/instructor/supervisor)
 
 Record your names here in this format-
 1. Team captain name, UNI
-2. Member name, UNI
+2. Member name, UN
 3. Member name, UNI
 
 and so on.   
